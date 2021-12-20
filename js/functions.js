@@ -15,7 +15,7 @@ function buttonClicked(argButtonName) {
   clearMessages();
   console.log(argButtonName + ' został kliknięty');
 
-	var argComputerMove, argPlayerMove, computerMove, playerInput, playerMove, randomNumber;
+	var argPlayerMove, computerMove, playerInput, playerMove, randomNumber;
 	/*
   Funkcja zwracająca nazwę ruchu
 	 */
